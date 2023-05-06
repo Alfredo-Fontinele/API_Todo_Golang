@@ -1,9 +1,9 @@
 [api]
-port = "9000"
+port = "3333"
 
 [database]
-host="localhost"
-user="neto"
-password="1234"
-db_name="db_api_golang_todo"
-port="5432"
+host = "localhost"
+user = "neto"
+password = "1234"
+db_name = "db_api_golang_todo"
+port = "5432"

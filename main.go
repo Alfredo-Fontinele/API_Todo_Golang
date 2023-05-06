@@ -24,5 +24,5 @@ func main() {
 	router.Delete("/api/todos/{id}", handlers.Delete)
 
 	http.ListenAndServe(fmt.Sprintf(":%s", configs.GetServerPort()), router)
-
+	fmt.Print("Server is running")
 }
