@@ -1,0 +1,21 @@
+# Arquivos executáveis
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos binários
+*.bin
+*.dat
+*.jar
+
+# Diretórios
+/bin/
+/pkg/
+/dist/
+/vendor/
+/.cache/
+/.vscode/
+/.idea/
+/.env/
