@@ -11,9 +11,3 @@
 ```go
     go mod init nome-do-seu-projeto
 ```
-
-## 3º) Comando para instalação (do Viper por exemplo)
-
-```go
-    go get github.com/spf13/viper
-```
